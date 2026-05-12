@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prajyothi Talekar
-**Full-Stack Developer (JavaScript | React | Node.js | MongoDB)**  
+**Frontend Developer (JavaScript | React | Node.js | MongoDB)**  
 📍 Berlin, Germany  
 📧 Email: [jyotalekar77@gmail.com](mailto:jyotalekar77@gmail.com)  
 🔗 Portfolio: [prajyothi-talekar-portfolio.vercel.app](https://prajyothi-talekar-portfolio.vercel.app)  
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-Full-Stack Developer passionate about building scalable web applications. Strong experience in **JavaScript, React, Node.js, Express, MongoDB** and testing automation. Previously worked as a Product Validation Engineer at **UST Global**, improving server platform reliability and gaining deep debugging expertise.  
+Frontend Developer passionate about building scalable web applications. Strong experience in **JavaScript, React, Node.js, Express, MongoDB** and testing automation. Previously worked as a Product Validation Engineer at **UST Global**, improving server platform reliability and gaining deep debugging expertise.  
 
 ---
 
@@ -70,8 +70,8 @@ Sahyadri College of Engineering and Management (2015–2019)
 ---
 
 ## 🌍 Languages
-- English  
-- German (Intermediate)  
+- English – Professional Proficiency
+- German – A1 Level (TELC Certified) 
 
 ---
 
