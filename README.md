@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prajyothi Talekar
-**QA Engineer**  
+**Software QA Engineer**  
 📍 Berlin, Germany  
 📧 Email: [jyotalekar77@gmail.com](mailto:jyotalekar77@gmail.com)  
 🔗 Portfolio: [prajyothi-talekar-portfolio.vercel.app](https://prajyothi-talekar-portfolio.vercel.app)  
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-QA Engineer with experience in software validation, test case design and execution, defect tracking, API testing, and mobile and web application testing. Skilled in Jira, Postman, HP ALM, Git, and MERN stack technologies.Passionate about software quality, testing methodologies, and continuous learning in Quality Assurance, mobile and web testing, and automation testing.Previously worked as a Product Validation Engineer at **UST Global**, improving server platform reliability and gaining deep debugging expertise.  
+Software QA Engineer with experience in software validation, test case design and execution, defect tracking, API testing, and mobile and web application testing. Skilled in Jira, Postman, HP ALM, Git, and MERN stack technologies. Passionate about software quality, testing methodologies, and continuous learning in Quality Assurance, mobile and web testing, and automation testing. Previously worked as a Product Validation Engineer at **UST Global**, improving server platform reliability and gaining deep debugging expertise.  
 
 ---
 
