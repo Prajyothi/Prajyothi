@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prajyothi Talekar
-**Frontend Developer (JavaScript | React | Node.js | MongoDB)**  
+**QA Engineer**  
 📍 Berlin, Germany  
 📧 Email: [jyotalekar77@gmail.com](mailto:jyotalekar77@gmail.com)  
 🔗 Portfolio: [prajyothi-talekar-portfolio.vercel.app](https://prajyothi-talekar-portfolio.vercel.app)  
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-Frontend Developer passionate about building scalable web applications. Strong experience in **JavaScript, React, Node.js, Express, MongoDB** and testing automation. Previously worked as a Product Validation Engineer at **UST Global**, improving server platform reliability and gaining deep debugging expertise.  
+QA Engineer with experience in software validation, test case design and execution, defect tracking, API testing, and mobile and web application testing. Skilled in Jira, Postman, HP ALM, Git, and MERN stack technologies.Passionate about software quality, testing methodologies, and continuous learning in Quality Assurance, mobile and web testing, and automation testing.Previously worked as a Product Validation Engineer at **UST Global**, improving server platform reliability and gaining deep debugging expertise.  
 
 ---
 
@@ -29,6 +29,21 @@ Frontend Developer passionate about building scalable web applications. Strong e
 
 ---
 
+## 💼 Professional Experience
+
+### Product Validation Engineer — UST Global (01/2020 – 05/2022)
+- Validated Intel server platform BIOS and firmware (pre-silicon and post-silicon).  
+- **Responsibilities:**  
+  - Conducted end-to-end BIOS/FW validation ensuring platform compliance.  
+  - Authored detailed test plans, test cases, and defect reports.  
+  - Performed API validation using Postman.  
+  - Utilized Git for version control and Jira/HP ALM for defect lifecycle.  
+  - Worked with Simics, BIOS boot flow, board bring-up, and system stability testing.  
+  - Validated key system components: IFWI, SMBIOS, PCIe, Power Management.  
+- **Impact:** Improved platform stability and reduced validation cycle time through optimized test coverage.  
+
+--- 
+
 ## 🚧 Featured Projects
 
 ### 📺 Netflix Clone (2025)
@@ -45,21 +60,6 @@ Frontend Developer passionate about building scalable web applications. Strong e
 - Full-Stack Web Development (2025) — Udemy  
 - Selenium WebDriver with Java (2023) — Udemy  
 - Manual Testing Training (2020) — QSpiders Bangalore  
-
----
-
-## 💼 Professional Experience
-
-### Product Validation Engineer — UST Global (01/2020 – 05/2022)
-- Validated Intel server platform BIOS and firmware (pre-silicon and post-silicon).  
-- **Responsibilities:**  
-  - Conducted end-to-end BIOS/FW validation ensuring platform compliance.  
-  - Authored detailed test plans, test cases, and defect reports.  
-  - Performed API validation using Postman.  
-  - Utilized Git for version control and Jira/HP ALM for defect lifecycle.  
-  - Worked with Simics, BIOS boot flow, board bring-up, and system stability testing.  
-  - Validated key system components: IFWI, SMBIOS, PCIe, Power Management.  
-- **Impact:** Improved platform stability and reduced validation cycle time through optimized test coverage.  
 
 ---
 
