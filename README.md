@@ -17,6 +17,8 @@ QA Engineer with experience in software validation, test case design and executi
 
 ### 🧪 Testing & Automation
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge)
+![Web Testing](https://img.shields.io/badge/Web_Testing-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
